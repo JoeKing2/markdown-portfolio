@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Anime
+2. Drawing
+3. Videogame Companies
+   1. Spike Chunsoft
+   2. Nintendo
